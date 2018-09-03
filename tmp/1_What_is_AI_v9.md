@@ -72,7 +72,7 @@ Artificial intelligence can be divided into three subfields:
 
 - Deep learning
 
-![](/Users/Thomas/Dropbox/Learning/GitHub/project/Tensorflow/image/tensorflow/1_What_is_AI_v9_files/image001.png)
+![](https://github.com/thomaspernet/Tensorflow/blob/master/image/tensorflow/1_What_is_AI_v9_files/image001.png)
 
 ## Machine Learning
 
