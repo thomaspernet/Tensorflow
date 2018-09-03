@@ -1,20 +1,3 @@
----
-title: Install TensorFlow
-author: Thomas
-date: [2018-08-11]
-slug: install-tensorflow
-categories: []
-tags:
-  - tf install
-header:
-  caption: ''
-  image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # How to Download and Install TensorFlow Windows and Mac 
 

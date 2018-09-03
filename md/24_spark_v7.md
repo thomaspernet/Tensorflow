@@ -1,20 +1,3 @@
----
-title: Apache Spark
-author: Thomas
-date: '2018-08-29'
-slug: spark
-categories: []
-tags:
-  - extra
-header:
-    caption: ''
-    image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Apache Spark: Pyspark, **MLlib,** Machine learning  
 

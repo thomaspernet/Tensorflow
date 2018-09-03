@@ -1,20 +1,3 @@
----
-title: Artificial Intelligence, Machine Learning and Deep learing?
-author: Thomas
-date: '2018-08-29'
-slug: artificial-inteligence
-categories: []
-tags:
-  - AI
-header:
-  caption: ''
-  image: ''
----  
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Artificial Intelligence
 

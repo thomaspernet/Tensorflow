@@ -1,20 +1,3 @@
----
-title: What is Machine Learning?
-author: Thomas
-date: '2018-08-29'
-slug: what-is-Machine-learning
-categories: []
-tags:
-  - AI
-header:
-  caption: ''
-  image: ''
----  
-<style>
-body {
-text-align: justify}
-</style>
-
 # What is Machine Learning? 
 
 A system that can learn from example through self-improvement and

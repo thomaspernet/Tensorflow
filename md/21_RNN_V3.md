@@ -1,20 +1,3 @@
----
-title: Recurrent Neural Network
-author: Thomas
-date: '2018-08-29'
-slug: rnn
-categories: []
-tags:
-  - deep_tf
-header:
-    caption: ''
-    image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # What do we need an RNN?
 

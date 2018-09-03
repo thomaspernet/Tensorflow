@@ -1,20 +1,3 @@
----
-title: What is Deep Learning?
-author: Thomas
-date: '2018-08-29'
-slug: what-is-deep-learning
-categories: []
-tags:
-  - AI
-header:
-  caption: ''
-  image: ''
----  
-<style>
-body {
-text-align: justify}
-</style>
-
 # What is Deep learning?
 
 Deep learning is a computer software that **mimics the network of

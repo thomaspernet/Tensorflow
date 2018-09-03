@@ -1,20 +1,3 @@
----
-title: Deep Learning Libraries?
-author: Thomas
-date: '2018-08-29'
-slug: deep-learnin-libraires
-categories: []
-tags:
-  - AI
-header:
-  caption: ''
-  image: ''
----  
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Deep learning libraries
 

@@ -1,20 +1,3 @@
----
-title: Autoencoder
-author: Thomas
-date: '2018-08-29'
-slug: autoencoder
-categories: []
-tags:
-  - deep_tf
-header:
-    caption: ''
-    image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # What is an Autoencoder?
 

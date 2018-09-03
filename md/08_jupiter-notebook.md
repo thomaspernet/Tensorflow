@@ -1,20 +1,3 @@
----
-title: Jupiter Notebook
-author: Thomas
-date: '2018-08-11'
-slug: jupiter-notebook
-categories: []
-tags:
-  - tf install
-header:
-  caption: ''
-  image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # What is Jupyter Notebook?
 

@@ -1,20 +1,3 @@
----
-title: Linear Regression Case Study
-author: Thomas
-date: '2018-08-29'
-slug: linear
-categories: []
-tags:
-  - intro_tf
-header:
-  caption: ''
-  image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Linear Regression Case Study
 

@@ -1,20 +1,3 @@
----
-title: What is nteract?
-author: Thomas
-date: '2018-08-29'
-slug: nteract
-categories: []
-tags:
-  - tf-install
-header:
-  caption: ''
-  image: ''
---- 
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # What is `nteract`
 

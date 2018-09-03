@@ -1,20 +1,3 @@
----
-title: Introduction to Tensorflow
-author: Thomas
-date: '2018-08-29'
-slug: tensorflow-intro
-categories: []
-tags:
-  - tf-install
-header:
-    caption: ''
-    image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # What is Tensor in TensorFlow?
 

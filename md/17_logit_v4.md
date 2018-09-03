@@ -1,20 +1,3 @@
----
-title: Logistic Regression
-author: Thomas
-date: '2018-08-29'
-slug: logit
-categories: []
-tags:
-  - intro_tf
-header:
-    caption: ''
-    image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Linear Classifier TensorFlow Binary, 
 

@@ -1,20 +1,3 @@
----
-title: Introduction to Scikit learn
-author: Thomas
-date: '2018-08-29'
-slug: scikit
-categories: []
-tags:
-  - tf-install
-header:
-    caption: ''
-    image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # What is Scikit-learn?
 

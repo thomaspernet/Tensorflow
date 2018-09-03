@@ -1,20 +1,3 @@
----
-title: Tensorboard
-author: Thomas
-date: '2018-08-11'
-slug: tensorboard
-categories: []
-tags:
-  - tf install
-header:
-  caption: ''
-  image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Tensorboard Tutorial: Graph Visualization with Example 
 

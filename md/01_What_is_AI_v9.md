@@ -1,20 +1,3 @@
----
-title: What Is Artificial Intelligence
-author: Thomas
-date: '2018-08-29'
-slug: what-is-artificial-intelligence
-categories: []
-tags:
-  - AI
-header:
-  caption: ''
-  image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Artificial Intelligence(AI) Tutorial
 

@@ -1,20 +1,3 @@
----
-title: Convolutional Neural Network
-author: Thomas
-date: '2018-08-29'
-slug: cnn
-categories: []
-tags:
-  - deep_tf
-header:
-    caption: ''
-    image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Convolutional neural network
 

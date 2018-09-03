@@ -1,20 +1,3 @@
----
-title: Linear Regression
-author: Thomas
-date: '2018-08-11'
-slug: linear-regression
-categories: []
-tags:
-  - intro_tf
-header:
-  caption: ''
-  image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # Linear Regression with TensorFlow  
 

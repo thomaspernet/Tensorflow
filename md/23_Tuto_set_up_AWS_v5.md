@@ -1,20 +1,3 @@
----
-title: How to use Jupyter Notebook with AWS and Docker
-author: Thomas
-date: '2018-08-29'
-slug: aws
-categories: []
-tags:
-  - extra
-header:
-    caption: ''
-    image: ''
----
-
-<style>
-body {
-text-align: justify}
-</style>
 
 # How to use Jupyter Notebook with AWS and Docker
 
