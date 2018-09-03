@@ -173,7 +173,9 @@ $$y = \beta + \alpha X + \epsilon$$
 The final weights are 3.8 and 2.78. The video below shows you how the
 gradient descent optimize the loss function to find this weights
 
-![](https://github.com/thomaspernet/Tensorflow/blob/masterhttps://media.giphy.com/media/3h2AilU7e4IHBYlnlu/giphy.gif" width="400" height="400" />
+
+
+![](https://media.giphy.com/media/3h2AilU7e4IHBYlnlu/giphy.gif )
 
 ## How to train a Linear Regression with TensorFlow
 

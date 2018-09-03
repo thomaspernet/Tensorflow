@@ -64,12 +64,12 @@ To give an example, take a look at the motion below, the model is trying
 to learn how to dance. After 10 minutes of training, the model does not
 know how to dance, and it looks like a scribble.
 
-![](https://github.com/thomaspernet/Tensorflow/blob/masterhttps://media.giphy.com/media/hTAWaOPBo7fXQFooOF/giphy.gif" width="400" height="400" />
+<img src="https://media.giphy.com/media/hTAWaOPBo7fXQFooOF/giphy.gif" width="400" height="400" />
 
 
 After 48 hours of learning, the computer masters the art of dancing.
 
-![](https://github.com/thomaspernet/Tensorflow/blob/masterhttps://media.giphy.com/media/xKZg4T6NprZl4cJfKS/giphy.gif" width="400" height="400" />
+<img src="https://media.giphy.com/media/xKZg4T6NprZl4cJfKS/giphy.gif" width="400" height="400" />
 
 
 ## Classification of Neural Networks 

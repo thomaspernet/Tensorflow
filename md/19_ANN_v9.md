@@ -213,16 +213,15 @@ the label based on the two features. To carry out this task, the neural
 network architecture is defined as following:
 
 -   Two hidden layers
-
 -   First layer has four fully connected neurons
-
 -   Second layer has two fully connected neurons
-
 -   The activation function is a Relu
-
 -   Add an L2 Regularization with a learning rate of 0.003
 
-![](https://github.com/thomaspernet/Tensorflow/blob/masterhttps://media.giphy.com/media/5ZYsQXWwAsHwRLcsOC/giphy.gif" width="400" height="400" />
+
+
+![](https://media.giphy.com/media/5ZYsQXWwAsHwRLcsOC/giphy.gif)
+
 
 
 The network will optimize the weight during 180 epochs with a batch size

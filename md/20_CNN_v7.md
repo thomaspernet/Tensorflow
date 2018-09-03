@@ -92,7 +92,7 @@ convolution, the size of the image is reduced.
 
 Below, there is a URL to see in action how convolution works.
 
-![](https://github.com/thomaspernet/Tensorflow/blob/masterhttps://media.giphy.com/media/fV8esV6419OdEltpbO/giphy.gif" width="400" height="400" />
+![](https://media.giphy.com/media/fV8esV6419OdEltpbO/giphy.gif)
 
 There are numerous channels available. Below, we listed some of the
 channels. You can see that each filter has a specific purpose. Note, in
@@ -111,7 +111,9 @@ image below shows how the convolution operates. The size of the patch is
 3x3, and the output matrix is the result of the element-wise operation
 between the image matrix and the filter.
 
-![](https://github.com/thomaspernet/Tensorflow/blob/masterhttp://machinelearninguru.com/_images/topics/computer_vision/basics/convolutional_layer_1/stride1.gif" width="400" height="400" />
+![](http://machinelearninguru.com/_images/topics/computer_vision/basics/convolutional_layer_1/stride1.gif)
+
+
 
 [Source](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
 
@@ -279,7 +281,7 @@ Otherwise, you need to run this line
     mnist = fetch_mldata('/Users/USERNAME/Downloads/MNIST original')
     print(mnist.data.shape)
     print(mnist.target.shape)
-
+    
     (70000, 784)
     (70000,)
 
@@ -296,7 +298,7 @@ You split the dataset with 80 percent training and 20 percent testing.
     batch_size =len(X_train)
     
     print(X_train.shape, y_train.shape,y_test.shape )
-
+    
     (56000, 784) (56000,) (14000,)
 
 Finaly, you scale the data using the min/max scaler of scikit learn. 
@@ -558,7 +560,7 @@ model.
               labels=labels, predictions=predictions["classes"])}
       return tf.estimator.EstimatorSpec(
           mode=mode, loss=loss, eval_metric_ops=eval_metric_ops)
-    
+
 
 The steps below are the same as the previous tutorials.
 First of all, you define an estimator with the CNN model.
@@ -566,7 +568,7 @@ First of all, you define an estimator with the CNN model.
     # Create the Estimator
     mnist_classifier = tf.estimator.Estimator(
         model_fn=cnn_model_fn, model_dir="train/mnist_convnet_model")
-
+    
     INFO:tensorflow:Using default config.
     INFO:tensorflow:Using config: {'_model_dir': 'train/mnist_convnet_model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 600, '_session_config': None, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0x115c7dcf8>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
 
@@ -593,7 +595,7 @@ lots of time to train. Be patient.
         input_fn=train_input_fn,
         steps=500,
         hooks=[logging_hook])
-
+    
     INFO:tensorflow:Calling model_fn.
     INFO:tensorflow:Done calling model_fn.
     INFO:tensorflow:Create CheckpointSaverHook.
@@ -621,7 +623,7 @@ lots of time to train. Be patient.
       0.10575273 0.09497389 0.0916015  0.10690145]] (17.206 sec)
     INFO:tensorflow:Saving checkpoints for 500 into train/mnist_convnet_model/model.ckpt.
     INFO:tensorflow:Loss for final step: 2.2327070236206055.
-
+    
     <tensorflow.python.estimator.estimator.Estimator at 0x115c7dba8>
 
 
@@ -636,7 +638,7 @@ Now that the model is train, you can evaluate it and print the results
         shuffle=False)
     eval_results = mnist_classifier.evaluate(input_fn=eval_input_fn)
     print(eval_results)
-
+    
     INFO:tensorflow:Calling model_fn.
     INFO:tensorflow:Done calling model_fn.
     INFO:tensorflow:Starting evaluation at 2018-08-30-08:22:10
@@ -714,7 +716,7 @@ effect.
     dropout = tf.layers.dropout(
     
           inputs=dense, rate=0.3, training=mode == tf.estimator.ModeKeys.TRAIN)
-    
+
 
 Step 6: Logit Layer
 

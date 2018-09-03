@@ -63,8 +63,7 @@ You can create a new code that prints `Drag and drop`.
 One nice feature of `nteract` is the drag and drop cells. You can move
 the cells up or down very quickly.
 
-
-![](https://github.com/thomaspernet/Tensorflow/blob/masterhttps://media.giphy.com/media/31ZnAfIJRbd1rsP5Zm/giphy.gif" width="400" height="400" />
+![](https://media.giphy.com/media/31ZnAfIJRbd1rsP5Zm/giphy.gif)
 
 You can save and close the notebook.
 
@@ -113,9 +112,9 @@ library. You import the data from GitHub as `df`. After you run the
 code, you should see the data
 
     import pandas as pd
-
+    
     PATH = "https://raw.githubusercontent.com/thomaspernet/data_csv_r/master/data/house_train.csv"
-
+    
     df = pd.read_csv(PATH)
     df.head(2)
 
@@ -128,7 +127,7 @@ You need to configure the notebook to allow the data explorer:
     from vdom import pre
     pd.options.display.html.table_schema = True
     pd.options.display.max_rows = None
-
+    
     display(pre("Note: This data is sampled"))
     df
 
