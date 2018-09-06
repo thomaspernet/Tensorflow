@@ -121,9 +121,9 @@ pre-installed in separate virtual environments:
 
 -   Caffe
 
--   PyTorch,
+-   PyTorch
 
--   Keras,
+-   Keras
 
 -   Theano
 
@@ -321,7 +321,7 @@ Code Explanation
 
 -   `8888:8888`: port
 
--   `jupyter``/datascience-notebook`: Image
+-   `jupyter/datascience-notebook`: Image
 
 For other pre-build images, go
 [here](https://github.com/jupyter/docker-stacks)
@@ -339,7 +339,7 @@ Allow preserving Jupyter notebook
 **Step 3**:
 
 1)  Check the container and its name (changes with every installation)
-    Use command `docker ``ps`
+    Use command `docker ps`
 
 2)  Get the name and use the log to open Jupyter. In the tutorial, the
     container's name is
@@ -353,8 +353,8 @@ Allow preserving Jupyter notebook
 
 In the URL
 
-http://(90a3c09282d6 or
-127.0.0.1):8888/?token=f460f1e79ab74c382b19f90fe3fd55f9f99c5222365eceed
+`http://(90a3c09282d6 or
+127.0.0.1):8888/?token=f460f1e79ab74c382b19f90fe3fd55f9f99c5222365eceed`
 
 Replace (90a3c09282d6 or 127.0.0.1) with Public DNS of your instance
 
