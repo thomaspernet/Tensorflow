@@ -18,7 +18,7 @@ You will find clarification about artificial intelligence and how important it i
 It includes contents on data preprocessing:
 
 - How to you nteract to visualize data quickly
--How to use Dive and Overview to get a deep insight from the data
+- How to use Dive and Overview to get a deep insight from the data
 - How to build a data preprocessing pipeline with Scikit learn developer version 0.20
 
 There is also a part that aims at explains how can you trust the algorithm:
